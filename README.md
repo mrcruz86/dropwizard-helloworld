@@ -1,6 +1,6 @@
 dropwizard-helloworld
 =====================
-#Editing the text for Lab3 to test deployer.sh
+
 $ mvn clean package
 
 $ bin/run.sh 
@@ -12,3 +12,6 @@ Endpoint: http://localhost:8080/helloworld
 
 Admin: http://localhost:8081/
 
+#Lab 3 Edit
+
+Creating this edit to test deployer.sh
