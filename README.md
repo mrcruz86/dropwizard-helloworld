@@ -1,6 +1,6 @@
 dropwizard-helloworld
 =====================
-
+#Editing the text for Lab3 to test deployer.sh
 $ mvn clean package
 
 $ bin/run.sh 
